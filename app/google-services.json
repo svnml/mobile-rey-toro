@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342985558453",
+    "project_id": "reytorodelivery-a7cc8",
+    "storage_bucket": "reytorodelivery-a7cc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342985558453:android:cadc461c9f2f4663a431fc",
+        "android_client_info": {
+          "package_name": "com.example.reytorodeli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsZxnt9yVyifKG3EiXdTxNaqI6hulMh94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
